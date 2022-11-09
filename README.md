@@ -2,9 +2,8 @@
 You will need to manually install tachyons for the CSS attributes because the tachyon file is too large for me to be able to upload to GitHub
 
 to install tachyons: 
-git clone 
 
-https://github.com/tachyons-css/tachyons.git
+git clone https://github.com/tachyons-css/tachyons.git
 
 cd tachyons
 
