@@ -12,3 +12,5 @@ npm install
 This project is a simple database search engine, this was designed with the intention of finding something by name and displaying other information relevant to that name
 such as a picture or information about that target. This particular design is very smooth and searches as you type rather than searching after you type what you're
 looking for.
+
+can be viewed live at https://whitestjake.github.io/robofriends/
